@@ -98,6 +98,11 @@
     <ClCompile Include="TrainingcalendarKJ.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CardioExercise.h" />
+    <ClInclude Include="Exercise.h" />
+    <ClInclude Include="StrengthExercise.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Condition="Exists('$(QtMsBuild)\qt.targets')">
     <Import Project="$(QtMsBuild)\qt.targets" />

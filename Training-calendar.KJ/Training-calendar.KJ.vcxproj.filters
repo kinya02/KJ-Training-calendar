@@ -41,4 +41,15 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Exercise.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StrengthExercise.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CardioExercise.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
